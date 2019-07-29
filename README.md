@@ -1,8 +1,10 @@
 # GapPackage
 
+## Gap Package
+
 A sample package based on GAP.
 
-## Install / Upload
+## Install / Upload Package
 
 **Windows**: `C:\gap-4.10.2\pkg\<mypack>`
 
@@ -12,3 +14,7 @@ A sample package based on GAP.
 gap> LoadPackage("test");
 gap> xxxCubed(10);
 ```
+
+---------
+
+https://www.gap-system.org
