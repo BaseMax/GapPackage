@@ -16,7 +16,7 @@ A sample package based on GAP.
 
 ```
 gap> LoadPackage("test");
-gap> xxxCubed(10);
+gap> xCubed(10);
 ```
 
 ---------
