@@ -1,5 +1,9 @@
 # GapPackage
 
+GAP - Groups, Algorithms, Programming
+
+A System for Computational Discrete Algebra
+
 ## Gap Package
 
 A sample package based on GAP.
