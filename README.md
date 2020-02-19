@@ -12,6 +12,8 @@ A sample package based on GAP.
 
 **Windows**: `C:\gap-4.10.2\pkg\<mypack>`
 
+**Gnu/Linux:**: `/usr/lib/gap/pkg/<mypack>`
+
 ## Using
 
 ```
